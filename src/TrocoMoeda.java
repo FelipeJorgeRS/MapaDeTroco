@@ -1,10 +1,10 @@
 
 public class TrocoMoeda {
 	
-        int moeda;
-        int quantidade;
+        double moeda;
+        double quantidade;
 
-        public TrocoMoeda(int moeda, int quantidade) {
+        public TrocoMoeda(double moeda, double quantidade) {
             this.moeda = moeda;
             this.quantidade = quantidade;
         }
